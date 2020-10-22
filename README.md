@@ -9,11 +9,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{I am interested in this topic because before moving to Canada I worked in the health care area in my homecountry Colombia for several years. I was able to closely see the tragedy that a family experiences when a member dies because a drug overdose. Also, it strikes me how drugs related deaths is a huge public health problem right now in USA  and also in Canada. In this project I expect to find some trends in terms or age, gender, race and substance related to drugs related deaths. In addition, I want to see if the problem is decreasing, increasing or is having a constant behavior during the studied period of time 2012 to 2018.  Also, I want to practice all the knowledge I adquired in data analysis during this course. I do not know too much about building dashboards from data, but from my basic knowledge about it I think this dataset is interesting and suitable to build a dashboard.}
+I am interested in this topic because before moving to Canada I worked in the health care area in my homecountry Colombia for several years. I was able to closely see the tragedy that a family experiences when a member dies because a drug overdose. Also, it strikes me how drugs related deaths is a huge public health problem right now in USA  and also in Canada. In this project I expect to find some trends in terms or age, gender, race and substance related to drugs overdose deaths. In addition, I want to see if the problem is decreasing, increasing or is having a constant behavior during the studied period of time 2012 to 2018.  Also, I want to practice all the knowledge I adquired in data analysis during this course. I do not know too much about building dashboards from data, but from my basic knowledge about it I think this dataset is interesting and suitable to build a dashboard.
 
 ## Describe your dataset in about 150-200 words
 
-{I found this dataset in kaggle.com as "Drug overdose deaths Accidental drug related deaths during 2012-2018" This dataset is owned by Ruchi Bathia. The dataset contains the demographic information about over 5000 persons who died because of a drugs related intoxication in Conneticut, United States of America between 2012 to 2018. The dataset include 24 variables such as date of death, age, gender, race, death city, death county, description of injury,cause of death, if the intoxication was due to substances as cocaine, fentanyl, heroin, ethanol, benzodiazepine, tramadol, morphine etc. This data was collected between 2012 and 2018. The dataset was created in 2016 by Ruchi Bathia; however the original source is data.gov who created the dataset in 2016 from historical records digitized. The purpose of this dataset is public interest.}
+I found this dataset in kaggle.com as "Drug overdose deaths Accidental drug related deaths during 2012-2018" This dataset is owned by Ruchi Bathia. The dataset contains the demographic information about over 5000 persons who died because of a drugs related intoxication in Conneticut, United States of America between 2012 to 2018. The dataset include 24 variables such as date of death, age, gender, race, death city, death county, description of injury,cause of death, if the intoxication was due to substances as cocaine, fentanyl, heroin, ethanol, benzodiazepine, tramadol, morphine etc. This data was collected between 2012 and 2018. The dataset was created in 2016 by Ruchi Bathia; however the original source is data.gov who created the dataset in 2016 from historical records digitized. The purpose of this dataset is public interest.
 
 
 ## Team Members
@@ -22,5 +22,6 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## References
 
-{https://www.kaggle.com/ruchi798/drug-overdose-deaths/metadata
-https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015}
+https://www.kaggle.com/ruchi798/drug-overdose-deaths/metadata
+
+https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015
