@@ -22,6 +22,6 @@ Bibiana Cortes Cardenas "a cat lover and  a perpetual learner"
 
 ## References
 
-https://www.kaggle.com/ruchi798/drug-overdose-deaths?select=drug_deaths.csv
+https://www.kaggle.com/ruchi798/drug-overdose-deaths/metadata
 
 https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015
