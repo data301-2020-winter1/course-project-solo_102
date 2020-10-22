@@ -18,7 +18,7 @@ I found this dataset in kaggle.com as "Drug overdose deaths Accidental drug rela
 
 ## Team Members
 
-Bibiana Cortes Cardenas "cat lover and perpetual learner"
+Bibiana Cortes Cardenas "a cat lover and  a perpetual learner"
 
 ## References
 
