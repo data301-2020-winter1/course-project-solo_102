@@ -1,5 +1,5 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=311653&assignment_repo_type=GroupAssignmentRepo)
-# Solo_102  Drugs overdose deaths in Conneticut USA 2012-2018
+# Solo_102  Drugs overdose deaths in Connecticut USA 2012-2018
 
 - Your title can change over time.
 
@@ -13,7 +13,7 @@ I am interested in this topic because before moving to Canada I worked in the he
 
 ## Describe your dataset in about 150-200 words
 
-I found this dataset in kaggle.com as "Drug overdose deaths Accidental drug related deaths during 2012-2018" This dataset is owned by Ruchi Bathia. The dataset contains the demographic information about over 5000 persons who died because of a drugs related intoxication in Conneticut, United States of America between 2012 to 2018. The dataset include 24 variables such as date of death, age, gender, race, death city, death county, description of injury,cause of death, if the intoxication was due to substances as cocaine, fentanyl, heroin, ethanol, benzodiazepine, tramadol, morphine etc. This data was collected between 2012 and 2018. The dataset was created in 2016 by Ruchi Bathia; however the original source is data.gov who created the dataset in 2016 from historical records digitized. The purpose of this dataset is public interest.
+I found this dataset in kaggle.com as "Drug overdose deaths Accidental drug related deaths during 2012-2018" This dataset is owned by Ruchi Bathia. The dataset contains the demographic information about over 5000 persons who died because of a drugs related intoxication in Connecticut, United States of America between 2012 to 2018. The dataset include 24 variables such as date of death, age, gender, race, death city, death county, description of injury,cause of death, if the intoxication was due to substances as cocaine, fentanyl, heroin, ethanol, benzodiazepine, tramadol, morphine etc. This data was collected between 2012 and 2018. The dataset was created in 2016 by Ruchi Bathia; however the original source is data.gov who created the dataset in 2016 from historical records digitized. The purpose of this dataset is public interest.
 
 
 ## Team Members
