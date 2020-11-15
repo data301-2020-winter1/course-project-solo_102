@@ -18,7 +18,7 @@ def load_and_process(file):
    #Method chain 1 (Load data, drop columns, rename columns, change dataType)
     
     df1 = (pd.read_csv(file)
-      .drop(columns = ['Unnamed: 0','DateType','COD','ResidenceCity','ResidenceCounty', 'ResidenceState',
+      .drop(columns = ['Unnamed: 0','DateType','ResidenceCity','ResidenceCounty', 'ResidenceState',
                        'DeathCity','DeathCounty','Location','LocationifOther','DescriptionofInjury','InjuryPlace',
                        'InjuryCity','InjuryCounty','InjuryState','OtherSignifican', 'Other','DeathCityGeo',
                        'ResidenceCityGeo','InjuryCityGeo' ], axis = 1)
